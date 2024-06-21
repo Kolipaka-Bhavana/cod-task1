@@ -1,6 +1,6 @@
 Name : Kolipaka Bhavana
 Id : CT08DS1212
-Domain : Dta Science
+Domain : Data Science
 Duration : May-25 to June-25
 Mentor Name : Sravani Gouni
 Description : Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with visual methods. It is a crucial initial step in the data analysis process, allowing data scientists and analysts to:
